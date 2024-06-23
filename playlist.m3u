@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1, Zee News
+http://example.com/stream/zee-news.m3u8
+
+#EXTINF:-1, India TV
+http://example.com/stream/india-tv.m3u8
+
+#EXTINF:-1, Republic Bharat
+http://example.com/stream/republic-bharat.m3u8
+
+#EXTINF:-1, SABC News
+http://example.com/stream/sabc-news.m3u8
+
+#EXTINF:-1, Sky Sport Cricket
+http://example.com/stream/sky-sport-cricket.m3u8
+
+#EXTINF:-1, Super Sport Cricket
+http://example.com/stream/super-sport-cricket.m3u8
